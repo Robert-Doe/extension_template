@@ -1,5 +1,7 @@
 # Browser Extension API Reference
 
+> **Beginner?** This is a lookup page. Start with the [learning path](docs/learning-path/README.md) or copy from the [snippets](docs/SNIPPETS.md). Those use `chrome.*`; here `extensionApi` means the same thing. Images such as `icons/icon128.png` must exist in your folder.
+
 This reference covers common Manifest V3 permissions and WebExtension APIs. The examples use:
 
 ```js
