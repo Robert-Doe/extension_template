@@ -1,0 +1,30 @@
+:root {
+  color-scheme: light dark;
+  font: 14px/1.4 system-ui, sans-serif;
+}
+
+body {
+  min-width: 280px;
+  margin: 0;
+  padding: 16px;
+}
+
+main {
+  display: grid;
+  gap: 12px;
+}
+
+h1 {
+  font-size: 18px;
+  margin: 0;
+}
+
+button {
+  cursor: pointer;
+  padding: 8px 12px;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
